@@ -1,0 +1,31 @@
+# Logfile created on Wed Apr 28 05:49:46 +0000 2010
+Processing LoginController#show (for 10.245.114.15 at 2010-04-28 05:50:31)
+
+[GET]
+Session ID: f1a7b029e4f8845d67cca2157785d646
+Parameters: {"action"=>"show", "controller"=>"login"}
+Cookie set: cinch=cd36cdb5c80313c5b0114facd82b24db666c62ec79d7916f; path=/;
+expires=Thu, 28 Apr 2011 05:50:34 GMT
+Rendering login/login
+Completed in 2237ms (View: 1, DB: 567) | 200 OK
+[http://10.195.218.143/login]
+Processing LoginController#show (for 10.245.114.15 at 2010-04-28 05:50:35)
+
+[GET]
+Session ID: 9c985b243b385a86255487d11f693af4
+Parameters: {"action"=>"show", "controller"=>"login"}
+Cookie set: cinch=97601bd094e608e1079c4c178e37bfb51f0c021c790c346c; path=/;
+expires=Thu, 28 Apr 2011 05:50:35 GMT
+Rendering login/login
+Completed in 654ms (View: 1, DB: 567) | 200 OK
+[http://10.195.218.143/login]
+Processing LoginController#show (for 10.245.114.15 at 2010-04-28 05:50:51)
+
+[GET]
+Session ID: 5d1bab09ffeadb336ea0a5387be8eaf3
+Parameters: {"action"=>"show", "controller"=>"login"}
+Cookie set: cinch=e1dc75b5747750e952b75f9d5ab264a13aaa135fd10f3240; path=/;
+expires=Thu, 28 Apr 2011 05:50:54 GMT
+Rendering login/login
+Completed in 1771ms (View: 1, DB: 685) | 200 OK
+[http://10.195.218.143/login]
